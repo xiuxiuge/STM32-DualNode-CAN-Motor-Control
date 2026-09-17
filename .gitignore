@@ -1,0 +1,43 @@
+# =========================
+# STM32CubeIDE build output
+# =========================
+Debug/
+Release/
+
+# =========================
+# Compiled files
+# =========================
+*.o
+*.d
+*.su
+*.cyclo
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+*.lst
+
+# =========================
+# Eclipse / CubeIDE temporary files
+# =========================
+.metadata/
+# CubeIDE generated / local preferences
+**/.settings/language.settings.xml
+**/.settings/com.st.stm32cube.ide.mcu.sfrview.prefs
+
+# =========================
+# System / editor junk
+# =========================
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*.log
+*.bak
+*~
+
+# =========================
+# Optional generated cache
+# =========================
+*.launch
